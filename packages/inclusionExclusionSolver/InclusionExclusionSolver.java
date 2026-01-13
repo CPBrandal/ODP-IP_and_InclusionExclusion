@@ -1,5 +1,5 @@
 /**
- * The Inclusion-Exclusion algorithm [Björklund et al., Set Partitioning via Inclusion-Exclusion, 2009]
+ * The Inclusion-Exclusion algorithm [BjÃ¶rklund et al., Set Partitioning via Inclusion-Exclusion, 2009]
  * @author Talal Rahwan
  */
 

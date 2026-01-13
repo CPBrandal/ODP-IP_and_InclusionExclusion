@@ -14,7 +14,7 @@ public class Combinations
 	//******************************************************************************************************
 	
 	/**
-	 * This method initializes pascal´s Matrix. For more details, see "An Algorithm for 
+	 * This method initializes pascal's Matrix. For more details, see "An Algorithm for 
 	 * Distributing Coalitional Value Calculations Among Cooperative Agents" [AIJ, 2007]
 	 */
 	public static long[][] initPascalMatrix( int numOfLines, int numOfColumns )
